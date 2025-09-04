@@ -1,12 +1,36 @@
-# React + Vite
+#  React Mini Project  - Props Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates the use of **props in React** by creating a simple and reusable component structure.  
+It highlights how data can be passed from a parent component to child components in a clean and efficient way.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 📦 Demonstrates **React props** in action  
+- 🔄 Reusable card component  
+- 🎨 Styled with CSS for a neat look  
+- ⚛️ Helps in understanding **component communication**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Output
+
+Here’s how the project looks:
+
+![Output Screenshot](./react_props.png)
+
+---
+
+## 🛠️ Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tgmonisha/react_props.git
+   cd react_props
+2. Install dependencies:
+
+   npm install
+3. Run the Project:
+   
+   npm run dev
+
